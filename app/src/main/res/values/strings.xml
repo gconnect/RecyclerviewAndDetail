@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewClass</string>
+    <string name="contact_name">Mike Ogah</string>
+    <string name="contact_phone">09029084747</string>
+</resources>
